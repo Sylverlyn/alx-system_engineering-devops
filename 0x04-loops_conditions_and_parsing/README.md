@@ -1,0 +1,1 @@
+For this project, i am learning how to write conditional statements on BASH.
