@@ -11,10 +11,10 @@ while [ $count -le 59 ]; do
   ((count++))
 done
 
-count=1
- 
+counter=1
+
 echo "Hour : 1"
-while [ $count -le 12 ]; do
-  echo $count
-  ((count++))
+while [ $counter -le 12 ]; do
+  echo $counter
+  ((counter++))
 done  
