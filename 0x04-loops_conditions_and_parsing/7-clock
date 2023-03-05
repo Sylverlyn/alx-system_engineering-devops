@@ -13,7 +13,7 @@ done
 
 counter=1
 
-echo "Hour : 1"
+echo "Hour: 1"
 while [ $counter -le 12 ]; do
   echo $counter
   ((counter++))
